@@ -1,7 +1,6 @@
-# NYCU-selected-topics-CV-HW1
-Visual Recognition using Deep Learning, Spring 2025: Homework 1
-StudentID: 313540002
-Name: Leontieva Mariia, 馬莉亞
+# Visual Recognition using Deep Learning, Spring 2025: Homework 1
+StudentID: 313540002<br>
+Name: Leontieva Mariia, 馬莉亞<br>
 
 ### Introduction
 
